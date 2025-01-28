@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-* Qamar Ul Islam - [omerabbace@gmail.com](mailto:omerabbace@gmail.com)
+* Omer Abbasi [omerabbace@gmail.com](mailto:omerabbace@gmail.com)
 * Project Link: [https://github.com/omerabbace/Imaginarium](https://github.com/omerabbace/Imaginarium)
 
 
